@@ -1,0 +1,19 @@
+.menu__link{
+    color: lightgray;
+    margin-right: 1.25rem;
+    text-decoration: none;
+    transition: 1.4s linear;
+}
+
+.menu__link--activo{
+    color: black;
+    font-weight: bold;
+    margin-right: 1.125rem;
+    text-decoration: none;
+}
+
+.menu__link:hover{
+    text-decoration: underline;
+    color: black;   
+    cursor: pointer;
+}

@@ -1,0 +1,16 @@
+.quienes__descripcion{
+    color: lightgray;
+    font-weight: 100;
+}
+
+@media screen and (min-width: 0) {
+    .quienes__descripcion{
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .quienes__descripcion{
+        font-size: 1.75rem;
+    }
+}

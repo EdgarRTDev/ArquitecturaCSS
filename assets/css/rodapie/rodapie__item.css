@@ -1,0 +1,11 @@
+.rodapie__item{
+    list-style: none;
+    display: flex;
+}
+
+@media screen and (min-width: 0){
+    .rodapie__item{
+        justify-content: center;
+    }
+    
+}

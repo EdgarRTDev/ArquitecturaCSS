@@ -1,0 +1,6 @@
+.receta__contenido{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
